@@ -1,5 +1,7 @@
 const Transactions = () => {
-    return <h1> Teste</h1>;
+    return <div className="flex items-center justify-center w-screen">
+                 <h1 className="text-green-600 p-5"> Teste</h1>
+    </div>;
 
 }
 
